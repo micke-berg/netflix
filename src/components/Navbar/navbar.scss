@@ -6,7 +6,7 @@
     background: linear-gradient(to top, transparent 0%, rgba(0, 0, 0, 0.3) 50%);
 	color: white;
 	font-size: 14px;
-    transition: background-color 0.3s ease-in-out;
+    transition: background-color 0.4s ease-out;
 
    &.scrolled {
         background-color: var(--main-color);
